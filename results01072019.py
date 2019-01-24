@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+#Still need to figure out the prefixing 'u' encoding in Pythong 2.x version. 
+
 import urllib2
 import json
 
